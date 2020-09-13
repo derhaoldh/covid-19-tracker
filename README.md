@@ -1,1 +1,1 @@
-Demo Website: covid19-tracker-dh.netlify.app
+Demo Website: http://covid19-tracker-dh.netlify.app
